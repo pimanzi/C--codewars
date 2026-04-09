@@ -1,0 +1,14 @@
+/Users/kabisa_03/C--codewars/HypotenuseCal/bin/Debug/net10.0/HypotenuseCal
+/Users/kabisa_03/C--codewars/HypotenuseCal/bin/Debug/net10.0/HypotenuseCal.deps.json
+/Users/kabisa_03/C--codewars/HypotenuseCal/bin/Debug/net10.0/HypotenuseCal.runtimeconfig.json
+/Users/kabisa_03/C--codewars/HypotenuseCal/bin/Debug/net10.0/HypotenuseCal.dll
+/Users/kabisa_03/C--codewars/HypotenuseCal/bin/Debug/net10.0/HypotenuseCal.pdb
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.AssemblyInfoInputs.cache
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.AssemblyInfo.cs
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.csproj.CoreCompileInputs.cache
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.dll
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/refint/HypotenuseCal.dll
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.pdb
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/HypotenuseCal.genruntimeconfig.cache
+/Users/kabisa_03/C--codewars/HypotenuseCal/obj/Debug/net10.0/ref/HypotenuseCal.dll
