@@ -30,7 +30,7 @@ namespace GuessGame
                 checkInput = int.TryParse(Console.ReadLine(), out userResult);
             }
             
-            Console.WriteLine($"Congratulations! the number is {userResult}");
+            Console.WriteLine($"Congratulations! the correct number is {userResult}");
             
             
 
