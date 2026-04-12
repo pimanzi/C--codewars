@@ -6,7 +6,7 @@ namespace  HypotenuseCal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Hypotenuse Calculator");
+            Console.WriteLine("Welcome to Hypotenuse side Calculator");
             Console.Write("Enter the length of first side of triangle: ");
             int length = int.Parse(Console.ReadLine());
             Console.Write("Enter the length of second side of triangle: ");
