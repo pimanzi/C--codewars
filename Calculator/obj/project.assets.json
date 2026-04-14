@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kabisa_03/C--codewars/GuessGame/GuessGame.csproj",
-      "projectName": "GuessGame",
-      "projectPath": "/Users/kabisa_03/C--codewars/GuessGame/GuessGame.csproj",
+      "projectUniqueName": "/Users/kabisa_03/C--codewars/Calculator/Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "/Users/kabisa_03/C--codewars/Calculator/Calculator.csproj",
       "packagesPath": "/Users/kabisa_03/.nuget/packages/",
-      "outputPath": "/Users/kabisa_03/C--codewars/GuessGame/obj/",
+      "outputPath": "/Users/kabisa_03/C--codewars/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kabisa_03/.nuget/NuGet/NuGet.Config"
