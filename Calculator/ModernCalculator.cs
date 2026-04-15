@@ -1,5 +1,7 @@
 namespace Calculator;
 
+
+
 public class ModernCalculator
 {
     public static int Total = 0;
@@ -22,4 +24,12 @@ public class ModernCalculator
       
     }
     
+}
+
+enum Signs        
+{
+    Add,
+    Subtract,
+    Multiply,
+    Divide
 }

@@ -2,4 +2,5 @@
   <Project Path="Calculator/Calculator.csproj" />
   <Project Path="GuessGame/GuessGame.csproj" />
   <Project Path="HypotenuseCal/HypotenuseCal.csproj" />
+  <Project Path="ToDoApp/ToDoApp.csproj" />
 </Solution>
