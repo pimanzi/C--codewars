@@ -41,7 +41,7 @@ private static string[] statusList = { "todo", "inProgress", "completed" };
                 title = Console.ReadLine();
                 Console.Write("Enter task status: ");
                 status = Console.ReadLine();
-            }
+            } 
                 if (status == "todo")
                     {
                         TaskManager.AddTask(title, Status.todo);
